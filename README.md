@@ -44,9 +44,6 @@ http://localhost:3000/
 
 # Considerações finais
 
-
-# Considerações finais
-
 Nesse projeto foram desenvolvidas 3 páginas:
 - Login
 - Cadastro
