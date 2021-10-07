@@ -42,6 +42,8 @@ Caso o projeto não abra automáticamente, abra um browser e acesse:
 
 http://localhost:3000/
 
+# Considerações finais
+
 
 # Considerações finais
 
