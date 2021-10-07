@@ -1,4 +1,4 @@
-# Aula 06 - GoBarber Web
+# GoBarber Web
 
 Nessa aula, voltamos a desenvolver nossa aplicação. Aqui desenvolvemos a algumas páginas da aplicação web do nosso "GoBarber".
 
