@@ -27,7 +27,6 @@ Nessa aula, voltamos a desenvolver nossa aplicação. Aqui desenvolvemos a algum
 
 #### Requisitos
 * Gerenciador de pacotes ([Yarn](https://yarnpkg.com/))
-* [Back-end](https://github.com/thiagocdn/aulas-bootcamp-GoStack11-rocketseat/tree/master/04-iniciando-back-end)
 
 **Para executar esse projeto você vai precisar do projeto da [aula 4](https://github.com/thiagocdn/aulas-bootcamp-GoStack11-rocketseat/tree/master/04-iniciando-back-end) rodando*
 
